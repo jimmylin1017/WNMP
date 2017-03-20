@@ -1,0 +1,5 @@
+﻿<?php
+  phpinfo();
+?>
+
+Hello World
